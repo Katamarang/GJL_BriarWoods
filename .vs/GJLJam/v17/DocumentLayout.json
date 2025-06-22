@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|c:\\users\\ecumi\\onedrive\\documents\\unity\\gjljam\\assets\\scripts\\pathfinding\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\buttons\\playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\yarnspinner\\yarncommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\yarnspinner\\yarncommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\placeables\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placeables\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\unitinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\buttons\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\pathfinding\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\assets\\scripts\\pathfinding\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F5072-8BE6-460F-404F-9E58058FCB4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YarnCommands.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\YarnSpinner\\YarnCommands.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\YarnSpinner\\YarnCommands.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\YarnSpinner\\YarnCommands.cs",
+              "RelativeToolTip": "Assets\\Scripts\\YarnSpinner\\YarnCommands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:58:05.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayButton.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Buttons\\PlayButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\PlayButton.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Buttons\\PlayButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\PlayButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:16:02.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\Tile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\Tile.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\Tile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\Tile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:23:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Buttons\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Buttons\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\FollowPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:19:15.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\GridManager.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\GridManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:15:01.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:49:39.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DragNDrop.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\DragNDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragNDrop.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\DragNDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragNDrop.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:01:48.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Placeables\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Placeables\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Placeables\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Placeables\\ObjectSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:56:48.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitInteractions.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\UnitInteractions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitInteractions.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\UnitInteractions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitInteractions.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:32:55.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\UnitController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\UnitController.cs",
+              "ToolTip": "C:\\Users\\ecumi\\OneDrive\\Documents\\Unity\\GJLJam\\Assets\\Scripts\\Pathfinding\\UnitController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\UnitController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAUwGcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:13:24.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿title: Start
+---
+<<ChangeBG YARN_COMMANDS 0>>
+Fae: You didn't invite me...
+<< ChangeBG YARN_COMMANDS 1>>
+King: I invite who I choose.
+<<ChangeBG YARN_COMMANDS 2>>
+Fae: I am a keeper of the forests you claim your kingdom on,
+Fae: It is courtesy.
+<<ChangeBG YARN_COMMANDS 1>>
+King: You are not welcome here.
+King: Leave. Or my guards will make you.
+<<ChangeBG YARN_COMMANDS 3>>
+<<wait 2>>
+<<ChangeBG YARN_COMMANDS 4>>
+<<wait 1>>
+Fae: You shall die by your own men's hands.
+Fae: In your greatest hour of glory, you will be killed where you stand.
+<<ChangeBG YARN_COMMANDS 5>>
+<<wait 2>>
+Fae: Goodbye
+<<ChangeScene YARN_COMMANDS>>
+===
